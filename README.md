@@ -12,3 +12,8 @@ python resize_img.py
 
 # yard maintain plan
 If I can add tool or utility in the future each files save in the sub directory.
+
+# kidEducation
+- For child eductional softwares by him/herself.
+- Created by Jupyter lab
+- Google Colab available I think
