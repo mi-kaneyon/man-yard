@@ -17,3 +17,5 @@ If I can add tool or utility in the future each files save in the sub directory.
 - For child eductional softwares by him/herself.
 - Created by Jupyter lab
 - Google Colab available I think
+## maze learning new release (13/Jul)
+- Maze generate for kids education.
