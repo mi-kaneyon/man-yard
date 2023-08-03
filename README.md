@@ -30,3 +30,4 @@ Itabashi.ipynb
 - 板橋区オープンデータ活用事例
 - コード拡張可能です。
 
+![テスト結果](https://github.com/mi-kaneyon/man-yard/blob/main/geography/itabashi.png)
