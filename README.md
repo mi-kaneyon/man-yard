@@ -17,6 +17,9 @@ If I can add tool or utility in the future each files save in the sub directory.
 - For child eductional softwares by him/herself.
 - Created by Jupyter lab
 - Google Colab available I think
+## 計算などをrandom作成できます
+‐ 日・英・中対応です（定型文だけですが）
+
 ## maze learning new release (13/Jul)
 - Maze generate for kids education.
 
