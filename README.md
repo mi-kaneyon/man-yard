@@ -34,3 +34,6 @@ Itabashi.ipynb
 - コード拡張可能です。
 
 ![テスト結果](https://github.com/mi-kaneyon/man-yard/blob/main/geography/itabashi.png)
+
+# update information
+- Business　方面にネタツール上げています。
