@@ -10,3 +10,8 @@
 
 # 生きがい統計
 - 総務省では役立つデータを多く提供しています。分析に活用してはいかがでしょうか？
+
+# 日本語分析（ポジティブシンキング positive thinking)
+- 共起ネットワーク図、クラスタリング、感情プロット
+- All languages available to analysis of emotional thinking
+
