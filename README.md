@@ -1,6 +1,11 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
+# Update!(20 Aug 2023)
+Add 漢字学習一年次.ipynb
+- 学汉字简体繁体日语都可以！
+
+
 # resize_img.py
 resize images in the specific directory saved.
 
