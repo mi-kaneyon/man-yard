@@ -1,10 +1,12 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
-# Update!(20 Aug 2023)
+# Update!(29 Aug 2023)
 Add 漢字学習一年次.ipynb
 - 学汉字简体繁体日语都可以！
 - data file is hanzi.xlsx　本体・データのダウンロードが必要です。
+Add binomial distribution game
+- lucky draw...
 
 
 # resize_img.py
