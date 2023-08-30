@@ -12,6 +12,9 @@ Add binomial distribution game
 # resize_img.py
 resize images in the specific directory saved.
 
+# Update!(30 Aug 2023)
+SaleInspect.ipynb
+- sale planning simple calculator.
 ```
 python resize_img.py 
 ```
