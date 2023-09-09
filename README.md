@@ -2,6 +2,10 @@
 small tools stored. much smaller than zoo. tiny space
 
 # Update!(29 Aug 2023)
+**kids_funMosaic.ipynb**
+- Person Segmenetation make kids fun.
+
+# Update!(29 Aug 2023)
 Add 漢字学習一年次.ipynb
 - 学汉字简体繁体日语都可以！
 - data file is hanzi.xlsx　本体・データのダウンロードが必要です。
