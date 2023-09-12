@@ -2,7 +2,7 @@
 small tools stored. much smaller than zoo. tiny space
 
 
-# Update!(29 Aug 2023)
+# Update!(12 Sep 2023)
 **Kids_motion.ipynb**
 - afterimage make kids fun.
 
