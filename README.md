@@ -1,6 +1,12 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
+
+# Update!(29 Aug 2023)
+**Kids_motion.ipynb**
+- afterimage make kids fun.
+
+
 # Update!(29 Aug 2023)
 **kids_funMosaic.ipynb**
 - Person Segmenetation make kids fun.
