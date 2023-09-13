@@ -1,6 +1,9 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
+# Update!(13 Sep 2023)
+**電波法テック.ipynbb**
+- もしかするとExcel見た方がいいかもです.
 
 # Update!(12 Sep 2023)
 **Kids_motion.ipynb**
