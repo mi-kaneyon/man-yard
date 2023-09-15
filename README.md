@@ -1,6 +1,17 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
+# Update!(16 Sep 2023)
+**Scouter with aura(DragonBL)**
+- scouter_aura.py
+- Measuring equipment for your fighting power
+- Yes, of course it is fun tool.
+- スカウター オーラ版：あなたの戦闘力とオーラが見えます。 
+
+```
+python scouter_aura.py
+```
+
 # Update!(13 Sep 2023)
 **電波法テック.ipynbb**
 - もしかするとExcel見た方がいいかもです.
@@ -14,7 +25,7 @@ small tools stored. much smaller than zoo. tiny space
 **kids_funMosaic.ipynb**
 - Person Segmenetation make kids fun.
 
-# Update!(29 Aug 2023)
+# Education Recommend tool
 Add 漢字学習一年次.ipynb
 - 学汉字简体繁体日语都可以！
 - data file is hanzi.xlsx　本体・データのダウンロードが必要です。
