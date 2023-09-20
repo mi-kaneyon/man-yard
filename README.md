@@ -5,6 +5,8 @@ small tools stored. much smaller than zoo. tiny space
 **kanhan.py**
 - Learning Kanji(日本語・中文）
 - Please see Kids Education dierectory
+- Unicode font is required. 
+https://github.com/texttechnologylab/DHd2019BoA/blob/master/fonts/Arial%20Unicode%20MS.TTF
 
 <a href="kidEducation/README.md">kanhan.py_link</a>
 # Update!(16 Sep 2023)
