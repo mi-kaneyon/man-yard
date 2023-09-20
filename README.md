@@ -2,6 +2,11 @@
 small tools stored. much smaller than zoo. tiny space
 
 # Update!(16 Sep 2023)
+**kanhan.py**
+- Learning Kanji(日本語・中文）
+- Please see Kids Education dierectory
+
+# Update!(16 Sep 2023)
 **Scouter with aura(DragonBL)**
 - scouter_aura.py
 - Measuring equipment for your fighting power
