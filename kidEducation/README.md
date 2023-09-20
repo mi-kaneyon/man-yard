@@ -11,8 +11,11 @@ python kanhan.py
 - 矢印キーで操作します。正解は加点・間違いは原点。120秒制限（デフォルト）
 - You can extend hanzi.xlsx by yourself
 - need download unicode font
-![sample](lize_注音.png)
+- Unicode font is required. 
+https://github.com/texttechnologylab/DHd2019BoA/blob/master/fonts/Arial%20Unicode%20MS.TTF
 
+
+<img src="lize_注音.png" width="300">
 
 # 日中文（簡体字・繁体字）学習教材
 
