@@ -15,7 +15,7 @@ python kanhan.py
 https://github.com/texttechnologylab/DHd2019BoA/blob/master/fonts/Arial%20Unicode%20MS.TTF
 
 
-<img src="lize_注音.png" " width="200" height="300">
+<img src="lize_注音.png" " width="200">
 
 # 日中文（簡体字・繁体字）学習教材
 
