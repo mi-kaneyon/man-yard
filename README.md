@@ -1,7 +1,7 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
-# Update!(16 Sep 2023)
+# Update!(20 Sep 2023)
 **kanhan.py**
 - Learning Kanji(日本語・中文）
 - Please see Kids Education dierectory
