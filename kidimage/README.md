@@ -2,6 +2,8 @@
 
 # New trans parent camera
 - There is jupyter version and command line version
+
+![透明](toumin.png)
   
 ```
 python transparent.py
