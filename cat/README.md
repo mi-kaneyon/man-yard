@@ -17,3 +17,19 @@ python meowmeow_copy.py
 
 ![sample](fukucopy.png)
 
+## control
+- A : add cat
+- B : reduce cat
+
+## equipment
+webcam is needed.
+
+```
+# required modules
+pytorch
+torchvision
+Pillow
+opencv
+numpy 
+
+```
