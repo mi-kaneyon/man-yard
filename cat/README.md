@@ -14,3 +14,6 @@ python meowmeow_copy.py
 ### jupyter version
 - execute copyMEOWMEOW.ipynb only.
 
+
+![sample](fukucopy.png)
+
