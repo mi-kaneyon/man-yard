@@ -1,6 +1,11 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
+# Update!（23 Sep 2023）
+**meow meow copy**
+- funny copy cat utility(simple)
+https://github.com/mi-kaneyon/man-yard/tree/main/cat
+
 # Update!(20 Sep 2023)
 **kanhan.py**
 - Learning Kanji(日本語・中文）
