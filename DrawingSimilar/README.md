@@ -10,5 +10,6 @@
 
 # Prepared terminal command type and jupyter notebook type
 - Function is same.
-- 
+
+  ![kiddraw.png](kiddraw.png)
   
