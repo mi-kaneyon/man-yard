@@ -2,6 +2,12 @@
 small tools stored. much smaller than zoo. tiny space
 
 # Update!（23 Sep 2023）
+**drawing image for education**
+- drawing figure app for kids education
+
+https://github.com/mi-kaneyon/man-yard/blob/main/DrawingSimilar/README.md
+
+# Update!（23 Sep 2023）
 **meow meow copy**
 - funny copy cat utility(simple)
 https://github.com/mi-kaneyon/man-yard/tree/main/cat
