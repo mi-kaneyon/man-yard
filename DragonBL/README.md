@@ -2,11 +2,11 @@
 - Counting your aura
 - But It is fun script to let kids interesting.
 
-  ```
+```
   
 python aura-count.py
 
-  ```
+```
 
 
 # Scouter fun
