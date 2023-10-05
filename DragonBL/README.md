@@ -7,6 +7,7 @@
 python aura-count.py
 ```
 
+![Test Image 3](Powermeter.png)
 
 # Scouter fun
 - It is not real scouter but It is for us to fun to know your fighting capability.
