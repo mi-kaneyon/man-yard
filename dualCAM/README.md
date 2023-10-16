@@ -7,3 +7,6 @@
 
 python dual_camstyle.py
 ```
+# sample image
+
+![Test Image 1](sample.png)
