@@ -1,6 +1,12 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
 
+# Update!（16 Oct 2023）
+- dual cam
+- using 2 cam try to make stereo video
+
+https://github.com/mi-kaneyon/man-yard/tree/main/dualCAM
+
 # Update!（2 Oct 2023）
 **face_clean.ipynb**
 - cheap camera to realize stero camera function but it become fun camera.
