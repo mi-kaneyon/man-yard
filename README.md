@@ -1,5 +1,6 @@
 # man-yard
 small tools stored. much smaller than zoo. tiny space
+- many experimental　scripts
 
 # Update!（16 Oct 2023）
 - dual cam
