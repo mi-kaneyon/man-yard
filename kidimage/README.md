@@ -1,5 +1,14 @@
 # iamge combine tool for kids request.
 
+# Updata 
+stop_2min.py
+
+Keep same pose for 2min. very simple game.
+```
+python stop_2min.py
+
+```
+
 # New trans parent camera
 - There is jupyter version and command line version
 
