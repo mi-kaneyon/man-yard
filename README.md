@@ -2,6 +2,10 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（21 Oct 2023）
+Kids image fun tool updated
+https://github.com/mi-kaneyon/man-yard/blob/main/kidimage/README.md
+
 # Update!（16 Oct 2023）
 - dual cam
 - using 2 cam try to make stereo video
