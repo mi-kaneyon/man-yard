@@ -2,6 +2,11 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（31 Oct 2023）
+happy checker
+https://github.com/mi-kaneyon/man-yard/tree/main/Utils
+- fun to check your happiness
+
 # Update!（21 Oct 2023）
 Kids image fun tool updated
 https://github.com/mi-kaneyon/man-yard/blob/main/kidimage/README.md
