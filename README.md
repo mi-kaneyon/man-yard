@@ -2,6 +2,10 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（7 Nov 2023）
+fun heatmap cam
+https://github.com/mi-kaneyon/man-yard/blob/main/singlesterocam/README.md
+
 # Update!（31 Oct 2023）
 happy checker
 https://github.com/mi-kaneyon/man-yard/tree/main/Utils
