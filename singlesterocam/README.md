@@ -3,6 +3,11 @@
 - trained model generate by yourself
 - depends on distance from cam, target color is changed.
 
+## sample image 
+
+![image](Screenshot from 2023-11-07 15-55-50.png)
+
+
 # directory structure (example)
 script
 dataset--- saving distance image by correct.py
