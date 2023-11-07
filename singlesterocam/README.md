@@ -5,7 +5,7 @@
 
 ## sample image 
 
-![image](sample.png)
+![image](samples.png)
 
 
 # directory structure (example)
