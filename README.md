@@ -2,6 +2,12 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+
+# Update!（30 Nov 2023）
+Rainbow
+fun for kids himself rainbow color segmentation 
+https://github.com/mi-kaneyon/man-yard/blob/main/rainbow/README.md
+
 # Update!（29 Nov 2023）
 fun heatmap cam
 https://github.com/mi-kaneyon/man-yard/blob/main/singlesterocam/README.md
