@@ -42,5 +42,7 @@ finding person, your/ thier face change your favorite cat
 python face_cat.py
 
 ```
+![sample](catface.png)
+
 
 
