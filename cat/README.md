@@ -42,6 +42,14 @@ finding person, your/ thier face change your favorite cat
 python face_cat.py
 
 ```
+## change face image
+- If you want to change image, you can change this line.
+```
+# 猫の顔画像を読み込み*(image directory)
+cat_face_img = cv2.imread('data/fuku.jpg')
+
+```
+
 ![sample](catface.png)
 
 
