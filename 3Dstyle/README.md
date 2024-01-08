@@ -2,6 +2,7 @@
 - It is stereo cam style family.
 - we need to prepare 2 webcam only.
 - If need to change camera id, please change your actual ids.
+- adjusting cam postion, person looks 3D (just fun camera)
 
 # requirement
 - pytorch
