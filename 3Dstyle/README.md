@@ -15,4 +15,6 @@
 python 3dst.py
 
 ```
+## image
+![sample image](sample3D.png)
 
