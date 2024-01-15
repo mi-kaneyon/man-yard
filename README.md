@@ -2,6 +2,9 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（15 Jan 2024）
+Moving detector : detection moving object
+https://github.com/mi-kaneyon/man-yard/tree/main/movingdetector
 
 # Update!（30 Nov 2023）
 Rainbow
