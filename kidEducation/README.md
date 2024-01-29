@@ -1,4 +1,9 @@
 # Update
+
+## mathtrainer_j.ipynb
+- calculation basic generator.
+- Easy and help your study +-/*
+
 # ゲームタイプ
 kanhan.py
 
