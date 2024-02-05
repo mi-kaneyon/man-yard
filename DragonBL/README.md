@@ -1,3 +1,15 @@
+# Power score
+- check your motion value
+- It may not be correct
+
+```
+python powermeter.py
+```
+
+
+![Test Image 3](power_score.png)
+
+
 # aura-count
 - Counting your aura
 - But It is fun script to let kids interesting.
