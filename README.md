@@ -2,6 +2,9 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（15th Feb 2024）
+Pose hard training
+https://github.com/mi-kaneyon/man-yard/tree/main/movingdetector
 
 # Update!（5th Feb 2024）
 Power viewer
