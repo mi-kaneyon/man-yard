@@ -2,6 +2,10 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（24th Feb 2024）
+Automartic setup helper.
+https://github.com/mi-kaneyon/man-yard/tree/main/SchooolEDU
+
 # Update!（15th Feb 2024）
 Pose hard training
 https://github.com/mi-kaneyon/man-yard/tree/main/movingdetector
