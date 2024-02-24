@@ -1,0 +1,39 @@
+#cloud-config
+autoinstall:
+  version: 1
+  locale: ja_JP.UTF-8
+  keyboard:
+    layout: jp
+    variant: ''
+  user-data:
+    disable_root: false
+  identity:
+    hostname: ubuntu-desktop
+    username: ubuntuuser
+    password: $6$exDY1mhS4KUYCE/2$NvXkapdsxjP.lB4D2P64HmSx7c8xK6JecRl.eRA.FL4C0Bp3qvElREZHKwcqFGC0SSP5.6RWYk2Z5XU0cCk7O0
+  ssh:
+    install-server: true
+    allow-pw: true
+  packages:
+    - ubuntu-desktop
+    - ibus-mozc
+    - language-pack-ja
+    - language-pack-gnome-ja
+  early-commands:
+    - echo 'd-i partman/mount_style select english' | debconf-communicate
+  late-commands:
+    - echo 'LC_ALL=C LANGUAGE=C LANG=C' >> /target/etc/environment
+    - sed -i 's/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /target/etc/locale.gen
+    - sed -i 's/# ja_JP.UTF-8 UTF-8/ja_JP.UTF-8 UTF-8/' /target/etc/locale.gen
+    - chroot /target locale-gen
+    - echo 'LANG="ja_JP.UTF-8"' > /target/etc/default/locale
+    - echo 'LANGUAGE="ja_JP:ja"' >> /target/etc/default/locale
+    - echo 'LC_ALL="ja_JP.UTF-8"' >> /target/etc/default/locale
+    - echo 'keyboard-configuration/modelcode=JP' | debconf-set-selections
+    - echo 'keyboard-configuration/layoutcode=JP' | debconf-set-selections
+    - echo 'keyboard-configuration/variantcode=' | debconf-set-selections
+    - 'chroot /target systemctl enable gdm'
+    - 'chroot /target update-locale LANG=ja_JP.UTF-8 LANGUAGE="ja_JP:ja"'
+    - 'chroot /target dpkg-reconfigure --frontend=noninteractive locales'
+    - 'chroot /target apt-get update && apt-get install -y nvidia-driver-535'
+    - 'chroot /target apt-get clean'
