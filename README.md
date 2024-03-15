@@ -3,6 +3,10 @@ small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
 # Update!（24th Feb 2024）
+moving person change rainbow tail.
+https://github.com/mi-kaneyon/man-yard/tree/main/rainbow
+
+# Update!（24th Feb 2024）
 Automartic setup helper.
 https://github.com/mi-kaneyon/man-yard/tree/main/SchooolEDU
 
