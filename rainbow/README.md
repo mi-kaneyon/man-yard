@@ -8,4 +8,6 @@ command line
 python rainbow_check.py
 
   ```
-![sample](Rainbow Trail_sample.png)
+
+  ![sample Image 3](RainbowTrailsample.png)
+  
