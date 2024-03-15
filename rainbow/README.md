@@ -5,6 +5,7 @@
 command line
 
   ```
-rainbow_check.py
+python rainbow_check.py
 
   ```
+![sample](Rainbow Trail_sample.png)
