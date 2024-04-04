@@ -2,6 +2,11 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（4th Apr 2024）
+- checking location height difference to look for house. or geography stury.
+https://github.com/mi-kaneyon/man-yard/blob/main/geography/elvevation%20calc.ipynb
+
+
 # Update!（15th Mar 2024）
 moving person change rainbow tail.
 https://github.com/mi-kaneyon/man-yard/tree/main/rainbow
