@@ -26,3 +26,14 @@ USER: Killed
 
 
 ```
+
+# Citation
+
+@misc{rakutengroup2024rakutenai7b,
+      title={RakutenAI-7B: Extending Large Language Models for Japanese}, 
+      author={{Rakuten Group, Inc.} and Aaron Levine and Connie Huang and Chenguang Wang and Eduardo Batista and Ewa Szymanska and Hongyi Ding and Hou Wei Chou and Jean-François Pessiot and Johanes Effendi and Justin Chiu and Kai Torben Ohlhus and Karan Chopra and Keiji Shinzato and Koji Murakami and Lee Xiong and Lei Chen and Maki Kubota and Maksim Tkachenko and Miroku Lee and Naoki Takahashi and Prathyusha Jwalapuram and Ryutaro Tatsushima and Saurabh Jain and Sunil Kumar Yadav and Ting Cai and Wei-Te Chen and Yandi Xia and Yuki Nakayama and Yutaka Higashiyama},
+      year={2024},
+      eprint={2403.15484},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
