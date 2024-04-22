@@ -10,6 +10,15 @@ python rakuchat_rawvram.py
 
 ```
 
+# customized auto chatbot script 
+- Input first sentence and script proceed converation 
+
+```
+python respchat.py
+
+```
+
+
 ## Example 
 
 ```
