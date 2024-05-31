@@ -2,7 +2,12 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
-# # Update!（4th Apr 2024）
+# Update!（31th May 2024）
+- input command in the terminal at shell script
+
+https://github.com/mi-kaneyon/man-yard/tree/main/startupshell
+
+# Update!（4th Apr 2024）
 - Japanese LLM model created by RakutenAI-7B based.
 - low spec machine conversation code
 - auto conversation and summrize case study
