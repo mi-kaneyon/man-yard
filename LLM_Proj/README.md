@@ -3,6 +3,27 @@
 - Install transformers
 - need several requirement module for LLM.
 
+# person expression image answer
+
+```
+python person_expression.py
+
+```
+## 
+
+> [!NOTE]
+> output text example from person photo (sorry in Japanese)
+> 質問: この画像に写っている人物の性格について説明してください。
+> 回答: この画像に写っている人物の性格について説明してください。
+> この画像に写っている人物の性格について説明してください。
+> この写真の人物は、真剣な表情でありながら目尻に微笑みを浮かべている。
+> そのため、この写真の人物は笑いを抑えるのが苦手で、常に笑顔を絶やすことなく過ごしているようである。
+> この写真の人物は、楽しいことをしたときに自然と笑顔になるのであり、怒ったり悔しがったりはしないようである。
+> この写真の人物は、いつも笑顔であり、いつも人を笑わせているようである。
+> この写真の人物は、楽しいことをすることが好きなようである。
+> この写真の人物は、いつも自分のことを悔いるよりも笑うほう
+
+
 # ROW VRAM chatbot script 
 
 ```
