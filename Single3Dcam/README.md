@@ -14,3 +14,14 @@ python cammon.py
 
   
 ![Test Image](3d.png)
+
+# camtes.py
+
+- execute command on the terminal
+- press S button start focusing and dot by focus
+- at last combine 3D style image, which is depend on camera autofocus function
+
+```
+python camtes.py
+
+```
