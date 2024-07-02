@@ -2,6 +2,9 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（2nd July 2024）
+- sound trouble shooting tool
+
 # Update!（31th May 2024）
 - input command in the terminal at shell script
 
