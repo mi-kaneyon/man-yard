@@ -11,4 +11,4 @@ python sound_repair.py
 ```
 # menu
 
-[Test Image 3](soundrepair.png)
+[Test Image 3](sound_repair.png)
