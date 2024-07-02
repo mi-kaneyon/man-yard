@@ -14,4 +14,4 @@ python sound_repair.py
 # menu
 - sample
 
-[Test Image 3](repair.png)
+[Test Image 3](./repair.png)
