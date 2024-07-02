@@ -13,4 +13,4 @@ python sound_repair.py
 
 # menu
 
-[sound_repair.png](https://github.com/mi-kaneyon/man-yard/blob/main/soundutility/repair.png)
+[sound_repair.png](repair.png)
