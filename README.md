@@ -5,6 +5,8 @@ small tools stored. much smaller than zoo. tiny space
 # Update!（2nd July 2024）
 - sound trouble shooting tool
 
+https://github.com/mi-kaneyon/man-yard/tree/main/soundutility
+
 # Update!（31th May 2024）
 - input command in the terminal at shell script
 
