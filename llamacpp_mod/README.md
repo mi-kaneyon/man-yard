@@ -23,6 +23,7 @@ pip install llama-cpp-python --force-reinstall --no-cache-dir
 > [!IMPORTANT]
 > If nvidia graphic card, Driver, CUDA and cudnn are required with proper version.
 
+
 # sample scripts
 
 ## CUI chat (Recommended)
@@ -87,6 +88,7 @@ cv2.destroyAllWindows()
    - `cap.release()` releases the camera capture object.
    - `out.release()` closes the video writer.
    - `cv2.destroyAllWindows()` closes all OpenCV windows.
+```
 ```
 
 
