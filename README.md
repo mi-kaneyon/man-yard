@@ -17,7 +17,7 @@ https://github.com/mi-kaneyon/man-yard/tree/main/startupshell
 - low spec machine conversation code
 - auto conversation and summrize case study
 
-https://github.com/mi-kaneyon/man-yard/tree/main/LLM_Proj
+[https://github.com/mi-kaneyon/man-yard/tree/main/LLM_Proj](https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/LLM_Proj)
 
 # Update!（2th Apr 2024）
 - checking location height difference to look for house. or geography stury.
