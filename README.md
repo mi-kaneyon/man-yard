@@ -2,6 +2,11 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（29th July 2024）
+- にほんごのぶんしょうもんだいをつくります（create Japanese reading question）
+
+https://github.com/mi-kaneyon/man-yard/tree/main/Japanese_sentence
+
 # Update!（2nd July 2024）
 - sound trouble shooting tool
 
