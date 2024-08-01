@@ -12,6 +12,9 @@
 
 # command line
 
+> [!NOTE]
+> Regarding the 2D image file named texture.jpg, you can replace your favorite image
+
 ```
 python grapshtest.py
 
