@@ -16,3 +16,13 @@
 python grapshtest.py
 
 ```
+## requirement
+
+```
+pip install pygame  
+pip install torch
+pip install Pillow
+pip install numpy
+ 
+```
+OpenGL, time , tkinter required.
