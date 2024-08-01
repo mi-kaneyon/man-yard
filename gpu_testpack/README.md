@@ -8,7 +8,7 @@
 2. test period slider(max 30 min)
 3. exit button
 
-
+gpu_testpack/testsanoke.png
 
 # command line
 
