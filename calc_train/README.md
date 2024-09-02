@@ -2,5 +2,6 @@
 1. +-/* 四則演算出題、ヒント機能あり
 2. 5 questions try
 
-# Jupyter notebook
+# Jupyter notebook example image
+
 
