@@ -2,6 +2,12 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（2nd Sep 2024）
+- にほんごですが、計算問題つくります。小学生低学年
+- calculation questions creator for 6-7yrs children
+  
+https://github.com/mi-kaneyon/man-yard/tree/main/calc_train
+
 # Update!（29th July 2024）
 - にほんごのぶんしょうもんだいをつくります（create Japanese reading question）
 
