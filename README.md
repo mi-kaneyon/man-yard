@@ -2,6 +2,11 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+
+# Update!（4th Oct 2024）
+https://github.com/mi-kaneyon/man-yard/tree/main/voicemaker
+- 日本語、English,中文 voice maker 
+
 # Update!（2nd Sep 2024）
 - にほんごですが、計算問題つくります。小学生低学年
 - calculation questions creator for 6-7yrs children
