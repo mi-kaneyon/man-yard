@@ -3,6 +3,8 @@ small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
 
+https://github.com/mi-kaneyon/man-yard/tree/main/%E8%A8%BC%E6%98%8E%E5%86%99%E7%9C%9F%E8%83%8C%E6%99%AF
+- 
 # Update!（4th Oct 2024）
 https://github.com/mi-kaneyon/man-yard/tree/main/voicemaker
 - 日本語、English,中文 voice maker 
@@ -37,8 +39,6 @@ https://github.com/mi-kaneyon/man-yard/tree/main/startupshell
 
 # Update!（2th Apr 2024）
 - checking location height difference to look for house. or geography stury.
-https://github.com/mi-kaneyon/man-yard/blob/main/geography/elvevation%20calc.ipynb
-
 
 # Update!（15th Mar 2024）
 moving person change rainbow tail.
@@ -68,6 +68,11 @@ https://github.com/mi-kaneyon/man-yard/blob/main/rainbow/README.md
 # Update!（29 Nov 2023）
 fun heatmap cam
 https://github.com/mi-kaneyon/man-yard/blob/main/singlesterocam/README.md
+
+# Update!（3rd Dec 2024）
+https://github.com/mi-kaneyon/man-yard/blob/main/geography/elvevation%20calc.ipynb
+- resume photo background changer
+
 
 # Update!（31 Oct 2023）
 happy checker
