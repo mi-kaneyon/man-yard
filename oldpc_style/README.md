@@ -24,3 +24,5 @@ The script accepts the following command-line argument:
 python letro.py
 
 ```
+# image sample
+![Test Image 3](letrosample.png)
