@@ -54,7 +54,13 @@ python all_clear.py
 
 ```
  
+# Image sample
 
+![Test Image 3](example.png)
+
+> [!NOTE]
+> Generated 3D image file with "ply" file
+> Image is available rotating as you like
 
 # Directory
 
