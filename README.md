@@ -2,6 +2,9 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（6th Jun 2025)
+QC bath tub curb
+
 # Update!（3rd Dec 2024）
 [https://github.com/mi-kaneyon/man-yard/tree/main/%E8%A8%BC%E6%98%8E%E5%86%99%E7%9C%9F%E8%83%8C%E6%99%AF](https://github.com/mi-kaneyon/man-yard/tree/main/%E8%A8%BC%E6%98%8E%E5%86%99%E7%9C%9F%E8%83%8C%E6%99%AF)
 - remove extra background color from photo for resume
