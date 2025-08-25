@@ -1,0 +1,5 @@
+{
+  "description": "A dynamic text adventure game for learning Japanese Kanji, powered by Gemini and Imagen. Choose a grade level and embark on a unique, AI-generated quest.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
