@@ -2,6 +2,10 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（3rd Sep 2025)
+Reading support Japanese for children にほんごよもう
+https://github.com/mi-kaneyon/man-yard/tree/main/nihongo_hajime
+
 # Update!（27th Aug 2025)
 heat depth: easy depth style image cam
 
