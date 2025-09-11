@@ -1,0 +1,64 @@
+{
+    "ja": {
+        "people": ["たろうさん", "はなこさん", "けんじさん", "さくらさん", "お母さん", "先生"],
+        "items": ["りんご", "みかん", "えんぴつ", "クッキー", "あめ", "本", "花", "ボール"],
+        "actions": ["もらいました", "ひろいました", "かいました"],
+        "templates": [
+            {
+                "format": "{person}は {item}を {num1}個 もっていました。\n{num2}個 {action}。あわせて何個になりますか？",
+                "operation": "add"
+            },
+            {
+                "format": "{person}は {item}を {num1}個 もっていました。\nそのうち {num2}個 たべました。のこりは何個ですか？",
+                "operation": "subtract"
+            },
+            {
+                "format": "公園に子どもが {num1}人 いました。\nそこへ {num2}人 やってきました。全部で何人になりましたか？",
+                "operation": "add"
+            },
+            {
+                "format": "バスに {num1}人 の客がのっていました。\nバスていで {num2}人 おりました。のこりは何人ですか？",
+                "operation": "subtract"
+            },
+            {
+                "format": "一袋に {num1}個 あめが入っているふくろが {num2}つ あります。\nあめはぜんぶで何個ですか？",
+                "operation": "multiply"
+            },
+            {
+                "format": "{num1}個 のケーキを {num2}人 で同じ数ずつ分けます。\nひとり何個になりますか？",
+                "operation": "divide"
+            }
+        ]
+    },
+    "en": {
+        "people": ["Taro", "Hanako", "Kenji", "Sakura", "Mother", "Teacher"],
+        "items": ["apples", "oranges", "pencils", "cookies", "candies", "books", "flowers", "balls"],
+        "actions": ["received", "found", "bought"],
+        "templates": [
+            {
+                "format": "{person} had {num1} {item}.\nThey {action} {num2} more. How many in total?",
+                "operation": "add"
+            },
+            {
+                "format": "{person} had {num1} {item}.\nThey ate {num2} of them. How many are left?",
+                "operation": "subtract"
+            },
+            {
+                "format": "There were {num1} children in the park.\n{num2} more children came. How many are there now?",
+                "operation": "add"
+            },
+            {
+                "format": "{num1} people were on the bus.\n{num2} people got off. How many are left on the bus?",
+                "operation": "subtract"
+            },
+            {
+                "format": "There are {num2} bags with {num1} candies in each bag.\nHow many candies are there in total?",
+                "operation": "multiply"
+            },
+            {
+                "format": "You have {num1} cakes to share equally among {num2} people.\nHow many cakes does each person get?",
+                "operation": "divide"
+            }
+        ]
+    }
+}
