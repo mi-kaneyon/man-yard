@@ -2,6 +2,10 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（11th Sep 2025)
+Calculation trainer けいさんれんしゅう
+https://github.com/mi-kaneyon/man-yard/tree/main/easycalc
+
 # Update!（3rd Sep 2025)
 Reading support Japanese for children にほんごよもう
 https://github.com/mi-kaneyon/man-yard/tree/main/nihongo_hajime
