@@ -43,7 +43,7 @@ GitHub
 - MediaPipe ≥ 0.10 (Tasks API)
 
 # Quick start
-'''
+```
 # (optional) create a clean conda env
 conda create -n faceplay python=3.8 -y
 conda activate faceplay
@@ -55,7 +55,7 @@ pip install opencv-python mediapipe numpy
 # run
 python faceplay.py --cam 0
 
-'''
+```
 
 
 
