@@ -2,6 +2,10 @@
 small tools stored. much smaller than zoo. tiny space
 - many experimental　scripts
 
+# Update!（30th Sep 2025)
+Face Play： Human emotion color
+https://github.com/mi-kaneyon/man-yard/tree/main/faceplay
+
 # Update!（11th Sep 2025)
 Calculation trainer けいさんれんしゅう
 https://github.com/mi-kaneyon/man-yard/tree/main/easycalc
